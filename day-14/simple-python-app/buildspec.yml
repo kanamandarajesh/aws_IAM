@@ -2,9 +2,9 @@ version: 0.2
 
 env:
   parameter-store:
-    DOCKER_REGISTRY_USERNAME: "dockerspacex"
-    DOCKER_REGISTRY_PASSWORD: "Rajesh123@"
-    DOCKER_REGISTRY_URL: "docker.io"
+    DOCKER_REGISTRY_USERNAME: dockerspacex
+    DOCKER_REGISTRY_PASSWORD: Rajesh123@
+    DOCKER_REGISTRY_URL: docker.io
 phases:
   install:
     runtime-versions:

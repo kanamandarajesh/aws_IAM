@@ -1,0 +1,7 @@
+Resources:
+  S3B4UKB6:
+    Type: 'AWS::S3::Bucket'
+    Properties: 
+      BucketName: "my.demoooooo.rajj.bucket"
+      VersioningConfiguration:
+        Status: Enabled

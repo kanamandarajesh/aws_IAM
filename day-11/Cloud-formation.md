@@ -39,7 +39,7 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-formats.html
 ```
 
-Below is How to Create Temaplte
+Below is How to Create Template
 ```
 https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html
 ```

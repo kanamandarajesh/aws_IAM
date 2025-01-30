@@ -1,8 +1,7 @@
 ### Scenario Based Interview Questions on EC2, IAM and VPC
 
 
-#### 1.Q: You have been assigned to design a VPC architecture for a 2-tier application. The application needs to be highly available and scalable. 
-   How would you design the VPC architecture?
+#### 1.Q: You have been assigned to design a VPC architecture for a 2-tier application. The application needs to be highly available and scalable.How would you design the VPC architecture?
 
 A: In this scenario, I would design a VPC architecture in the following way.
    I would create 2 subnets: public and private. The public subnet would contain the load balancers and be accessible from the internet. The private subnet would host the application servers. 
